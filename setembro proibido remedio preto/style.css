@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2f3136; /* Preto escuro, estilo Discord */
+    color: #dcddde; /* Texto em cinza claro */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #f8c300; /* Amarelo para o título */
+    font-size: 3em;
+}
+
+.highlight {
+    color: #f8c300; /* Amarelo para destaque */
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.cta {
+    background-color: #f8c300; /* Amarelo para o botão */
+    color: #2f3136; /* Texto preto escuro */
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.cta:hover {
+    background-color: #f0b400; /* Amarelo mais escuro para hover */
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 1.2em;
+    color: #f8c300; /* Amarelo para o texto do rodapé */
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.faq {
+    background-color: #333; /* Fundo cinza escuro para a área de FAQ */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border: 1px solid #444; /* Borda cinza escuro */
+}
+
+.faq-item {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.faq-item h3 {
+    color: #f8c300; /* Amarelo para os títulos de FAQ */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    font-size: 1.1em;
+    color: #dcddde; /* Cinza claro para o texto das respostas */
+}
